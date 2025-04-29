@@ -9,7 +9,7 @@ Production-ready Vue components to accelerate your development workflow. Each co
 
 | Component | Description | Status |
 |-----------|-------------|--------|
-
+| [GoogleMapMarker](components/google-map-marker/) | Embed Google Maps with a single marker without requiring API key | ✅ Ready |
 
 ## 📋 Prerequisites
 
